@@ -1,5 +1,5 @@
 # Pokefy
-Python utility script to rename files to pokemon names. Inspired by an April fools joke.
+Python 3.3 utility to rename files to pokemon names. Inspired by an April fools joke.
 
 ```
 NAME
