@@ -115,7 +115,7 @@ def usage():
     print("SYNOPSIS")
     print("\tpokefy.py [-f|--file filename] [-r] [-d] [-v|--verbose] [-l|--list listfile] [-h|--help]")
     print("OPTIONS")
-    print("\t-f|--file filename\n\t\tDirectory to run on. Defaults to currecnt directory")
+    print("\t-f|--file filename\n\t\tDirectory to run on. Defaults to current directory")
     print("\t-r\n\t\tRecursive mode")
     print("\t-v|--verbose\n\t\tVerbose mode")
     print("\t-d\n\t\tRename directory mode")
