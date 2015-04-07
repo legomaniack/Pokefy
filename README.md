@@ -1,6 +1,7 @@
 # Pokefy
 Python utility script to rename files to pokemon names. Inspired by an April fools joke.
 
+```
 NAME
         pokefy - Changes file names to Pokemon
 SYNOPSIS
@@ -18,3 +19,4 @@ OPTIONS
                 Alternant list of names to replace with
         -h | --help
                 Help
+```
