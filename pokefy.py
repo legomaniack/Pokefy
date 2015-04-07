@@ -118,7 +118,7 @@ def usage():
     print("\t-f|--file filename\n\t\tDirectory to run on. Defaults to currecnt directory")
     print("\t-r\n\t\tRecursive mode")
     print("\t-v|--verbose\n\t\tVerbose mode")
-    print("\t-v\n\t\tRename directory mode")
+    print("\t-d\n\t\tRename directory mode")
     print("\t-l|--list listfile\n\t\tAlternant list of names to replace with")
     print("\t-h|--help\n\t\tHelp")
     
