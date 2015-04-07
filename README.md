@@ -8,7 +8,7 @@ SYNOPSIS
         pokefy.py [-f|--file filename] [-r] [-d] [-v|--verbose] [-l|--list listfile] [-h|--help]
 OPTIONS
         -f | --file filename
-                Directory to run on. Defaults to currecnt directory
+                Directory to run on. Defaults to current directory
         -r
                 Recursive mode
         -v | --verbose
